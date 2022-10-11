@@ -2,8 +2,7 @@
 
 import ascii_magic
 
-output = ascii_magic.from_image_file("sub.png",columns=100,char="&")
+output = ascii_magic.from_image_file("?.extension",columns=?,char="?")
 ascii_magic.to_terminal(output)
 
 
-#Subscribe @Techvine
