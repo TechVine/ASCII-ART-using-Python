@@ -10,7 +10,21 @@
 ## How to Contribute
 
 
-###Task 1
+### Task 1
+    Create a Ascii art of Hactober fest 
+    https://images.app.goo.gl/8t9k4HnE88wJJhXw6
+    
+### Task 2
+    Create a Ascii art of tech vine logo
+    https://images.app.goo.gl/TcoDzi5fKjtM9WaSA
+    
+ ### Task 3
+     create a Ascii art of Pikachu 
+     https://images.app.goo.gl/JFFKV2g6SSJ6gFPT8
+     
+ ## Do any two task to successfully contribute 
+ 
+### make sure to add these images as files in folder you push
 
 
   
