@@ -3,8 +3,10 @@
 ASCII, in full American Standard Code for Information Interchange, a standard data-encoding format for electronic communication between computers. 
 ASCII assigns standard numeric values to letters, numerals, punctuation marks, and other characters used in computers.
 
-Using ASCII_MAGIC Python library, we can create ascii code for any image format, this leads to many masterpice of arts.
-ascii_magic library is one of the most used library for ascci art, including this project.
+Using the ASCII_MAGIC Python library, we can create ASCII code for any image format, which leads to many masterpieces of art.
+ascii_magic library is one of the most used libraries for ASCII art, including this project.
+
+Completed #1 Ascii_Art.
 
 There are three image files present in Folder Task 1:
 1. Hacktoberfes.jpg
