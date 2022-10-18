@@ -57,3 +57,5 @@ if __name__=='__main__':
 
     image_file_path = sys.argv[1]
     handle_image_conversion(image_file_path)
+    
+    .
