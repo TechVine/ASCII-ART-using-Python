@@ -1,9 +1,0 @@
-import ascii_magic 
-Pikachu = ascii_magic.from_image_file("Pikachu.jpg", columns = 200, char='#')
-input = int(input('''Choose an ASCII - ART
-[1] Pikachu '''))
-
-if inp == 1:
-    x = Pikachu
-else:
-    print("Invalid Input")
